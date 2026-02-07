@@ -4,4 +4,4 @@ The main purpose of this webpage is to display my knowledge of HTML, CSS, and Ma
 
 **I hope you enjoy!**
 
-Take a look: [https://shawn-morrison.github.io] (https://shawn-morrison.github.io)
+Take a look: [https://shawn-morrison.github.io/](https://shawn-morrison.github.io)
