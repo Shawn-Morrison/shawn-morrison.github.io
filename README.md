@@ -49,7 +49,8 @@ This project is organized into two primary areas:
 Browse the documentation folder here:
 
 **Documentation Folder:**  
-(Placeholder)
+https://github.com/Shawn-Morrison/shawn-morrison.github.io/tree/main/docs  
+
 
 ---
 
