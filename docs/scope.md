@@ -1,7 +1,7 @@
 # Project 03 - Shawn Morrison
 ## Two Page Interest Website: Trying New Restaurants
 ### Project purpose:
-*The purpose of this project is to plan, document, and deliver a simple two-page informational website focused on the hobby of trying new restaurants while demonstrating competency in project management principles, structured documentation, and foundational web development (HTML and CSS). It will also Provide me with full credit for this project and toward my grade in CPMA-3301.*
+*The purpose of this project is to plan, document, and deliver a simple two-page website demonstrating competency in project management principles, structured documentation, and foundational web development (HTML and CSS). It will also Provide me with full credit for this project and toward my grade in CPMA-3301.*
 ### Feedback Loops    
 *Kalee Morrison (spouse) will review this project before submission to peer review, peer review will occur in assignment 04 next week, then there will be improvements and iterations, another review from Kalee Morrison (spouse), more improvements and iterations if there are any, and after final submission, Professor Cheri Whalen will grade the project according to her grading schedule.*
 
