@@ -1,19 +1,28 @@
 body {
-    background-color: blanchedalmond;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #0b1f3a;  
+    color: #7fffd4;             
+    margin: 0;
+    padding: 20px;
 }
-h1 {
-    color: rgb(1, 1, 86);
-    font-family: 'Lucida Console', monospace;
-    margin-left: 60px;
+
+a {
+    color: #7fffd4;              
+    text-decoration: none;
 }
-h2 {
-    margin-left: 60px;
+
+img {
+    border: 2px solid #7fffd4;
+    margin-top: 10px;
+    width: 300px;
 }
-p {
-    font-family: Arial, Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    margin: 20px;
+
+div {
+    margin-bottom: 30px;
 }
-ul {
-    margin-left: 25px;
+
+hr {
+    border: 1px solid #7fffd4;
+    width: 60%;
 }
